@@ -15,4 +15,4 @@ spec:
       app: myweb-monitoring
   endpoints:
     - port: http-metrics
-      path: /metrics
+      path: /

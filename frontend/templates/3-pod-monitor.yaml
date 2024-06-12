@@ -16,4 +16,4 @@ spec:
       tier: frontend
   podMetricsEndpoints:
     - port: http-metrics
-      path: /metrics
+      path: /
